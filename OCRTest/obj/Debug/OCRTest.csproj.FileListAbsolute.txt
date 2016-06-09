@@ -1,0 +1,34 @@
+C:\Users\wellington\Desktop\C#\OCRTest\bin\Debug\OCRTest.exe.config
+C:\Users\wellington\Desktop\C#\OCRTest\bin\Debug\OCRTest.exe
+C:\Users\wellington\Desktop\C#\OCRTest\bin\Debug\OCRTest.pdb
+C:\Users\wellington\Desktop\C#\OCRTest\bin\Debug\tessnet2_64.dll
+C:\Users\wellington\Desktop\C#\OCRTest\bin\Debug\tessnet2_64.pdb
+C:\Users\wellington\Desktop\C#\OCRTest\obj\Debug\OCRTest.csprojResolveAssemblyReference.cache
+C:\Users\wellington\Desktop\C#\OCRTest\obj\Debug\OCRTest.exe
+C:\Users\wellington\Desktop\C#\OCRTest\obj\Debug\OCRTest.pdb
+C:\Users\wellington\Desktop\C#\OCRTest\obj\Debug\OCRTest.FormMain.resources
+C:\Users\wellington\Desktop\C#\OCRTest\obj\Debug\OCRTest.csproj.GenerateResource.Cache
+C:\Users\wellington\Desktop\C#\OCRTest\obj\Debug\OCRTest.Properties.Resources.resources
+D:\faculdade\Computação Grafica\OCR\OCRTest\bin\Debug\OCRTest.exe.config
+D:\faculdade\Computação Grafica\OCR\OCRTest\obj\Debug\OCRTest.exe
+D:\faculdade\Computação Grafica\OCR\OCRTest\obj\Debug\OCRTest.pdb
+D:\faculdade\Computação Grafica\OCR\OCRTest\bin\Debug\OCRTest.exe
+D:\faculdade\Computação Grafica\OCR\OCRTest\bin\Debug\OCRTest.pdb
+D:\faculdade\Computação Grafica\OCR\OCRTest\bin\Debug\tessnet2_64.dll
+D:\faculdade\Computação Grafica\OCR\OCRTest\bin\Debug\tessnet2_64.pdb
+D:\faculdade\Computação Grafica\OCR\OCRTest\obj\Debug\OCRTest.csprojResolveAssemblyReference.cache
+D:\faculdade\Computação Grafica\OCR\OCRTest\obj\Debug\OCRTest.FormMain.resources
+D:\faculdade\Computação Grafica\OCR\OCRTest\obj\Debug\OCRTest.Properties.Resources.resources
+D:\faculdade\Computação Grafica\OCR\OCRTest\obj\Debug\OCRTest.csproj.GenerateResource.Cache
+D:\faculdade\Computação Grafica\OCR\OCRTest\bin\Debug\AForge.Imaging.dll
+D:\faculdade\Computação Grafica\OCR\OCRTest\bin\Debug\AForge.Imaging.Formats.dll
+D:\faculdade\Computação Grafica\OCR\OCRTest\bin\Debug\AForge.Imaging.IPPrototyper.dll
+D:\faculdade\Computação Grafica\OCR\OCRTest\bin\Debug\AForge.dll
+D:\faculdade\Computação Grafica\OCR\OCRTest\bin\Debug\AForge.Math.dll
+D:\faculdade\Computação Grafica\OCR\OCRTest\bin\Debug\AForge.Imaging.xml
+D:\faculdade\Computação Grafica\OCR\OCRTest\bin\Debug\AForge.Imaging.Formats.xml
+D:\faculdade\Computação Grafica\OCR\OCRTest\bin\Debug\AForge.xml
+D:\faculdade\Computação Grafica\OCR\OCRTest\bin\Debug\AForge.Math.xml
+D:\faculdade\Computação Grafica\Computacao-Grafica\OCR\OCRTest\bin\Debug\OCRTest.exe.config
+D:\faculdade\Computação Grafica\Computacao-Grafica\OCR\OCRTest\obj\Debug\OCRTest.exe
+D:\faculdade\Computação Grafica\Computacao-Grafica\OCR\OCRTest\obj\Debug\OCRTest.pdb
